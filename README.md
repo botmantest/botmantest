@@ -5,10 +5,10 @@ _Test org for botman(s)_
 
 ---
 
-## zzzzz
-🔗 [Source Code](https://github.com/botmantest/zzzzz)  |  🌍 [Website](None)
+## botmantest
+🔗 [Source Code](https://github.com/botmantest/botmantest)  |  🌍 [Website](https://github.com/botmantest)
 
-test sync repo location test
+A central hub for all repositories within `botmantest`
 
 ---
 
